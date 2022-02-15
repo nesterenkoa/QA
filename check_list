@@ -1,9 +1,1 @@
-Стуркутра check-list
-
--Build (версия сборки)
--Environment (окружение, в котором проводилось тестирование)
--Test-date (дата теста)
--Name tester (имя тестеровщика)
--Type test (тип теста, который использовался для проверок)
--Checking (название самих проверок)
--Result (результат проверок)
+Ссылка на чек-лист по тестированию формы регистрации:  https://docs.google.com/spreadsheets/d/1aAzjS5SsvPeoNpa--Gfi5bAoV1AxNLQF/edit?usp=sharing&ouid=100109536255640081503&rtpof=true&sd=true
