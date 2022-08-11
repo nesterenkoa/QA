@@ -1,1 +1,12 @@
-Ссылка на чек-лист по тестированию формы регистрации:  https://docs.google.com/spreadsheets/d/1aAzjS5SsvPeoNpa--Gfi5bAoV1AxNLQF/edit?usp=sharing&ouid=100109536255640081503&rtpof=true&sd=true
+Мои рабочие чек-листы:
+1. Чек-лист на проверку формы регистрации NextShip.: https://docs.google.com/spreadsheets/d/10nVvnCTwUxEbqPEI8lqQrNl3aD9SgptuInDqbwHEz-Y/edit#gid=0
+2. Чек-лист на проверку обновления данных из МТ в БД по имени судна: https://docs.google.com/spreadsheets/d/1VWslSwcF0tA-6goh1sUwrq-b0f6-7hCdHtM6sBSednM/edit#gid=0
+3. Чек-лист на проверку валидации имени судна (поля "name") при создании в глобальном словаре суден:https://docs.google.com/spreadsheets/d/1u3_nBYUi3iTN9KFi3ddjQtk-XDJvb_KkssBCsncQOB4/edit#gid=0
+4. Чек-лист на проверку валидации номера ИМО при создании судна в глобальном словаре: https://docs.google.com/spreadsheets/d/1kyZQQuMTZQGH084tWi6iUXYeGg7WMFvjV_BDlBDKzBA/edit#gid=158148449
+5. Чек-лист по поиску судна по указанным данным в глобальном словаре суден: https://docs.google.com/spreadsheets/d/1sH3b9tZSLSbF80DhLCtQbppG3HMLbtpv1qYg3swN004/edit#gid=0
+6. Чек-лист на проверку логики отображения метки "In Ukraine" WEB-VERSION: https://docs.google.com/spreadsheets/d/1X_G1puZVGcfSNGi92jdrc6MyG8F6l6OSq6YoO8rI3Q4/edit#gid=0
+7. Чек-лист на проверку логики отображения метки "In Ukraine" для МОБИЛЬНОЙ ВЕРСИИ: https://docs.google.com/spreadsheets/d/1X_G1puZVGcfSNGi92jdrc6MyG8F6l6OSq6YoO8rI3Q4/edit#gid=1158181411
+8. Чек-лист на проверку корректного отображения ссылок в чате тех. поддержки: https://docs.google.com/spreadsheets/d/1xYANvmwomVLi870tCxKr3axFGLuZb4bQs6XoGSLiLd0/edit#gid=0
+
+Тестовый чек-лист:
+Чек-лист по тестированию формы регистрации:  https://docs.google.com/spreadsheets/d/1aAzjS5SsvPeoNpa--Gfi5bAoV1AxNLQF/edit?usp=sharing&ouid=100109536255640081503&rtpof=true&sd=true
